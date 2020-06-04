@@ -1,4 +1,5 @@
-from scrapping_functions import builders,leroy,buco,cashbuild
+#from scrapping_functions import builders,leroy,buco,cashbuild
+from scrapp import builders,leroy,buco,cashbuild
 from database_functions import  create_table,updateMultipleRecords
 
 

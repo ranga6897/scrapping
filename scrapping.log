@@ -1,0 +1,17 @@
+INFO 2020-06-05 01:51:23,480 root function : cashbuild
+DEBUG 2020-06-05 01:51:23,486 urllib3.connectionpool Starting new HTTPS connection (1): www.cashbuildonline.co.za:443
+DEBUG 2020-06-05 01:51:24,797 urllib3.connectionpool https://www.cashbuildonline.co.za:443 "GET /search?q=303275 HTTP/1.1" 200 None
+DEBUG 2020-06-05 01:51:25,070 urllib3.connectionpool Starting new HTTPS connection (1): www.cashbuildonline.co.za:443
+DEBUG 2020-06-05 01:51:25,461 urllib3.connectionpool https://www.cashbuildonline.co.za:443 "GET /products/sephaku-cement-32-5r?_pos=1&_sid=4f11b3bc1&_ss=r HTTP/1.1" 200 None
+INFO 2020-06-05 01:51:25,514 root function : builders
+DEBUG 2020-06-05 01:51:25,516 urllib3.connectionpool Starting new HTTPS connection (1): www.builders.co.za:443
+DEBUG 2020-06-05 01:51:26,718 urllib3.connectionpool https://www.builders.co.za:443 "GET /search/?text=627935 HTTP/1.1" 200 None
+INFO 2020-06-05 01:51:26,963 root funtion = leroy
+DEBUG 2020-06-05 01:51:26,965 urllib3.connectionpool Starting new HTTPS connection (1): leroymerlin.co.za:443
+DEBUG 2020-06-05 01:51:30,536 urllib3.connectionpool https://leroymerlin.co.za:443 "GET /catalogsearch/result/?q=81424182 HTTP/1.1" 200 None
+INFO 2020-06-05 01:51:30,943 root funtion : buco
+DEBUG 2020-06-05 01:51:30,945 urllib3.connectionpool Starting new HTTPS connection (1): www.buco.co.za:443
+DEBUG 2020-06-05 01:51:34,492 urllib3.connectionpool https://www.buco.co.za:443 "GET /default/catalogsearch/result/?q=1203434 HTTP/1.1" 200 None
+DEBUG 2020-06-05 01:51:34,945 urllib3.connectionpool Starting new HTTPS connection (1): www.buco.co.za:443
+DEBUG 2020-06-05 01:51:36,511 urllib3.connectionpool https://www.buco.co.za:443 "GET /default/1203434-cement-original-black-npc-42-5n-50kg HTTP/1.1" 200 None
+INFO 2020-06-05 01:51:36,990 root sku= 1203434 ,product_id = 8666, price = 86.733001
